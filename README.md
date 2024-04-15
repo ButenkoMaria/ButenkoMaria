@@ -2,7 +2,7 @@
 - 👀 I’m interested in Тестирвание ПО
 - 🌱 I’m currently Прошла обучение "Основы тестирования ПО" 
 - 📫 How to reach me bmasha_96@mail.ru; telegram - @bmaria25
-- 😄 Pronouns: ...
+
 
 
 <!---
